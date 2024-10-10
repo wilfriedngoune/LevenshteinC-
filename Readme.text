@@ -1,0 +1,11 @@
+##clone the project
+
+1- make sure you have the compiler g++ in your machine
+
+2- get in the root directory of the project
+
+2- run this command to compile
+$ g++ -o main src/main.cpp src/Tests.cpp src/Levenshtein.cpp
+
+3- After the compilation, run this command to run
+$ ./main
